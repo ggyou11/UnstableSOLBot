@@ -1,0 +1,10 @@
+websocket-client
+python-dotenv
+requests
+solana
+python-telegram-bot
+rugcheck
+loguru
+websockets  # Compatible with solana
+httpx
+asyncio
